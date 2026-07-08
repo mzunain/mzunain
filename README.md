@@ -1,7 +1,7 @@
 <div align="center">
 
 # Muhammad Zulqarnain
-### Full-Stack AI Engineer · Quran.com (50M+ Users) · Turku, Finland 🇫🇮
+### Full-Stack Engineer · Quran.com · Turku, Finland 🇫🇮
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-zunain.com-black?style=for-the-badge)](https://zunain.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mzulqarnainakram)
@@ -16,13 +16,12 @@
 
 ## About Me
 
-I'm a Full-Stack AI Engineer based in Finland. I helped scale **Quran.com to 50M+ daily users** — one of the world's largest Islamic apps — and I've since built production RAG pipelines, LLM-powered SaaS products, and 40+ shipped applications across web and mobile.
+I'm a Full-Stack Engineer based in Finland.
 
 Currently focused on the intersection of **AI and product engineering**: multi-agent systems, retrieval-augmented generation, and building software that actually works at scale.
 
 - 🔭 Building: AI-native SaaS products and RAG systems for production
 - 🌍 Based in: Turku, Finland (EU work authorization)
-- 💼 Open to: Senior Full-Stack / AI Engineer roles (remote or EU)
 - ✍️ Writing about AI engineering at [zunain.com](https://zunain.com) and [Medium](https://medium.com/@ranamzulqarnain1)
 
 ---
