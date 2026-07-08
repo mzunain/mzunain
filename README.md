@@ -141,7 +141,6 @@ Currently focused on the intersection of **AI and product engineering**: multi-a
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Scaled Quran.com to 50M+ Monthly Users: Architecture Lessons from the Inside](https://dev.to/muhammad_zulqarnainakram/how-we-scaled-qurancom-to-50m-monthly-users-architecture-lessons-from-the-inside-cbi)
 - [Next.js Production Apps: Server Components and API Routes](https://dev.to/muhammad_zulqarnainakram/nextjs-production-apps-server-components-and-api-routes-5a00)
 - [React Native Performance: Building High-Performance Mobile Apps](https://dev.to/muhammad_zulqarnainakram/react-native-performance-building-high-performance-mobile-apps-2gk9)
 - [Enterprise-Grade Node.js with NestJS: Building Scalable Backend Architecture](https://dev.to/muhammad_zulqarnainakram/enterprise-grade-nodejs-with-nestjs-building-scalable-backend-architecture-9om)
