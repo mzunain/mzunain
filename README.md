@@ -1,7 +1,7 @@
 <div align="center">
 
 # Muhammad Zulqarnain
-### Full-Stack Engineer · Quran.com · Turku, Finland 🇫🇮
+### Full-Stack Engineer · Turku, Finland 🇫🇮
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ranamzulqarnain1)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/muhammad_zulqarnainakram)
