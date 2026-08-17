@@ -3,9 +3,6 @@
 # Muhammad Zulqarnain
 ### Full-Stack Engineer · Quran.com · Turku, Finland 🇫🇮
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zunain.com-black?style=for-the-badge)](https://zunain.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mzulqarnainakram)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b4e8ff74b8886e97?mp_source=share)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ranamzulqarnain1)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/muhammad_zulqarnainakram)
 [![Medium](https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium)](https://medium.com/@ranamzulqarnain1)
@@ -22,7 +19,6 @@ Currently focused on the intersection of **AI and product engineering**: multi-a
 
 - 🔭 Building: AI-native SaaS products and RAG systems for production
 - 🌍 Based in: Turku, Finland (EU work authorization)
-- ✍️ Writing about AI engineering at [zunain.com](https://zunain.com) and [Medium](https://medium.com/@ranamzulqarnain1)
 
 ---
 
@@ -158,7 +154,3 @@ Currently focused on the intersection of **AI and product engineering**: multi-a
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mzunain&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B54&currStreakNum=58A6FF&sideNums=C9D1D9&dates=C9D1D9)](https://github.com/mzunain)
 
 ---
-
-<div align="center">
-  <b>Open to senior roles and freelance projects · <a href="https://zunain.com">zunain.com</a> · ranamzulqarnain1@gmail.com</b>
-</div>
